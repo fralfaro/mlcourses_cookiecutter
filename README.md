@@ -19,8 +19,8 @@ con [Google Colab](https://colab.research.google.com/?hl=en), [Mkdocs](https://w
      * `project_description`: descripción del proyecto .
      * `year`: año actual.
      * `github_user`: usuario de github.
-     * `linkedin_user`: usuario de linkedin.
-
+     * `linkedin_user`: usuario de linkedin. <br>
+     <br>
     >    **Nota**: el nombre del proyecto debe coincidir con el nombre asignado en el punto 1.
 
 3. Para agregar un remoto nuevo, utiliza el comando git remote add en la terminal, en el directorio en el cual está almacenado tu repositorio.
